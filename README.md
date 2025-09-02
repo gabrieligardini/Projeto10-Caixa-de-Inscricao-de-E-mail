@@ -12,4 +12,4 @@ A proposta é criar uma **caixa de inscrição para newsletter ou captura de e-m
 - Layout centrado e chamativo
 
 ## ✨ Autor
-Projeto desenvolvido por **Gabrieli Gardini Fernandes**, estudante do **PROA**.
+Projeto desenvolvido por Gabrieli Gardini Fernandes, estudante do PROA.
